@@ -6,3 +6,5 @@ The React app uses:
   - google search result
   
 The app simply suggests user what to wear depending on the temperature.
+
+View app live: https://on-t.vercel.app/
