@@ -1,5 +1,5 @@
-# OnT
-Outfit on Temperature
+# OnW
+Outfit on Weather
 
 The React app uses:
   - weather api
